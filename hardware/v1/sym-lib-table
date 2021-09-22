@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name tiny85_project.pretty)(type Legacy)(uri ${KIPRJMOD}/tiny85_project.pretty)(options "")(descr "")(disabled))
+  (lib (name tiny85_prj_modules)(type Legacy)(uri ${KIPRJMOD}/tiny85_prj_modules.lib)(options "")(descr ""))
+  (lib (name HC-SR04)(type Legacy)(uri /Users/test/Dropbox/kicad/tiny85_pm25_temp_humd/v0/HC-SR04.lib)(options "")(descr ""))
+)

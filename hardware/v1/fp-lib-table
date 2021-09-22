@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name tiny85_project.pretty)(type KiCad)(uri ${KIPRJMOD}/tiny85_project.pretty)(options "")(descr ""))
+)
